@@ -322,8 +322,14 @@ Microservice architectures and unix philosophy.
 
 ### Links
 
-* [No.of LXCs you can run on your machine](https://ubuntu.com/blog/how-many-containers-can-you-run-on-your-machine)
-* [Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
-* [Future of Linux containers](https://www.youtube.com/watch?v=wW9CAH9nSLs)
-* [Container in Go](https://www.youtube.com/watch?v=Utf-A4rODH8)
-
+* https://ubuntu.com/blog/how-many-containers-can-you-run-on-your-machine
+* https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html (Unix philosophy)
+* https://www.youtube.com/watch?v=wW9CAH9nSLs (Docker's historical open source announcement)
+* https://www.youtube.com/watch?v=Utf-A4rODH8 (Creating container in go)
+* https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/
+* https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-i-linux-control-groups-and-process
+* https://www.upguard.com/blog/docker-vs-lxc
+* https://lwn.net/Articles/236038/ (Process containers)
+* https://insights.sei.cmu.edu/sei_blog/multicore-processing-and-virtualization/
+* http://crunchtools.com/comparison-linux-container-images/
+* https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612
